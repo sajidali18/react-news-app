@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+button {
+    border: none;
+    background-color: white;
+    /* color: #000000A6; */
+}
+
+#sajid {
+    margin: 0px 40px;
+}
